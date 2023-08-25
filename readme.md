@@ -1,3 +1,3 @@
 # Lendo os uuids das tags
 
-<img src="./sketchLedRgb.png/>"
+<img src="./sketchLedRgb.png"/>
